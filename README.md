@@ -1,3 +1,3 @@
 # easybank
 responsive easy bank website
-[click here](https://www.easybankresponsive.netlify.app)
+[click here](https://easybankresponsive.netlify.app/)
